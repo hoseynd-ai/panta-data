@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+plotly
+rapidfuzz
+rich
+phonenumbers
+streamlit-aggrid
